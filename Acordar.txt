@@ -1,0 +1,12 @@
+1 - O despertador toca
+2 - Estou com sono? Sim
+    1 - Colocar no soneca
+    2 - Dormir mais 5 minutos
+    3 - Voltar ao passo 1
+3 - Não
+    1 - Abrir os olhos
+    2 - Sentar na cama
+    3 - Levantar
+    4 - Escovar os dentes
+    5 - Tomar café da manhã
+    6 - Começar o dia
